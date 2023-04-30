@@ -16,7 +16,7 @@ To play the game, first select one account and select `join`.
 Then, scroll to the top and select a different account (do not press Deploy again), scroll back down, and select `join`.  
 Select `startGame`. At this point, private cards will be dealt to each of the two players.  
 Select `drawCard` to draw a card for the given account. Select `myScore` to see what your current score is.  
-After you are comfortable with your selection, wait for 30 seconds. Select `gameOutcome` and `result`. This will display the overall winner.  
+After you are comfortable with your selection, wait for 10 seconds. Select `gameOutcome` and `result`. This will display the overall winner.  
 ##### Code Specifics
 Do notice there are a couple of other functions and buttons as well. A few things to note:  
 The following are variables you can look at. For the variables `game` and `myStatus`, you must first select `gameOutcome` to update the status of the game, because the contract does not do this automatically in view permission functions.  
