@@ -1,5 +1,6 @@
 ## CSCI-4240 Project
 ### Nina Ning
+nini3598@colorado.edu
 #### Description
 This project uses Solidity to write a smart contract on the Ethereum blockchain such that two addresses can play Blackjack with one another. The traits of the blockchain are used to make the game as fair and secure as possible. The `Blackjack.sol` file contains the contract code, and this README file contains directions that demonstrate how to run an example of using the contract to play a game of Blackjack.  
 #### Compilation
